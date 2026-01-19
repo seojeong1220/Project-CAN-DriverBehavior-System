@@ -24,7 +24,7 @@ ISO-TP 멀티프레임 재조립 및 UDS 응답 Payload 파싱을 통해
 점수 계산 알고리즘을 통해 운전자 성향을 분류하고 TFT 디스플레이로 출력됩니다.
 
 ---
-### Hardware 구성
+## Hardware 구성
 <img width="900" height="444" alt="image" src="https://github.com/user-attachments/assets/b8395bdf-d8b7-4a94-907f-644b1decf1c0" />
 
 | 구분 | 부품명 | 역할 |
