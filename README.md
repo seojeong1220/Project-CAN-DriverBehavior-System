@@ -1,9 +1,8 @@
 
 # OBD CAN 통신을 활용한 운전자 운전 성향 분석 시스템
 
+<img width="919" height="361" alt="image" src="https://github.com/user-attachments/assets/ca50867a-3f2a-457d-956d-be18e7421023" />
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/19767d39-d7c6-476d-a1ff-11ada8712abc" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/0379f442-2345-4963-afed-392d6f3383bd" />
 
 ## 시연 동영상
 https://github.com/user-attachments/assets/672f6e51-8fd5-48cc-b3f2-25eaf2b3af77
