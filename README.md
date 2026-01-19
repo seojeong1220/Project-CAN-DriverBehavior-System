@@ -1,7 +1,11 @@
 
 # CAN-based Driver Behavior Analysis System
 
+
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/19767d39-d7c6-476d-a1ff-11ada8712abc" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/0379f442-2345-4963-afed-392d6f3383bd" />
+
+https://github.com/user-attachments/assets/672f6e51-8fd5-48cc-b3f2-25eaf2b3af77
 
 본 프로젝트는 차량 **OBD-II 기반 CAN 통신**을 통해 주행 데이터를 수집하고,  
 운전 행동을 분석하여 **운전자 성향(캐릭터)** 및 **주행 점수(SCORE)** 를 실시간으로 시각화하는  
